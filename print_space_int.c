@@ -36,4 +36,3 @@ int prinsint(va_list arguments, char *buf, unsigned int ibuf)
 	}
 	return (i + 1);
 }
-aa
